@@ -306,6 +306,8 @@ footer h3 {
 }
 footer .footer-above {
   padding-top: 50px;
+  flex-direction: column;
+  align-items:center;
   background-color: #2C3E50;
 }
 footer .footer-col {
